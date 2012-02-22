@@ -1,0 +1,11 @@
+*.py[co]
+.*.swp
+*~
+*.egg-info
+
+tests/local_settings.py
+
+.project
+.pydevproject
+.settings
+.coverage
